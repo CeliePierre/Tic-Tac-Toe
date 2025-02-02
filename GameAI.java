@@ -1,5 +1,5 @@
 /*
-    NAME: Célie Pierre
+    NAME: Celie Pierre
     COS 161, Spring 2022, Prof. Andrew Amorelli
     Project 01
     File Name: GamePlus.java
@@ -8,7 +8,6 @@
 import java.awt.Font;
 import java.awt.Graphics;
 import java.util.Random;
-import java.util.Scanner;
 
 public class GameAI {
 

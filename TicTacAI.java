@@ -1,11 +1,9 @@
 /*
-    NAME: Célie Pierre
+    NAME: Celie Pierre
     COS 161, Spring 2022, Prof. Andrew Amorelli
     Project 01
     File Name: TicTacPlus.java
 */
-
-import java.awt.*;
 
 public class TicTacAI {
 	public static void main(String[] args) {
